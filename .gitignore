@@ -1,0 +1,8 @@
+.build
+bin/haproxy_exporter*
+haproxy_exporter
+*.tar.gz
+*.test
+*.mprof
+*-stamp.idea
+.idea
